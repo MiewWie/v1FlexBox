@@ -1,0 +1,49 @@
+*{
+    box-sizing: border-box;
+}
+body
+{
+    margin: 0;
+    padding: 0;
+}
+.a
+{
+   background-color: blueviolet; 
+   height: 300px;
+}
+.b
+{
+ background-color: blue;
+ height: 300px;
+}
+.c
+{
+    background-color: pink;
+    height: 300px;
+}
+.d
+{
+    background-color: palevioletred;
+    height: 300px;
+}
+.e
+{
+    background-color: crimson;
+    height: 300px;
+}
+.f
+{
+    background-color: brown;
+    height: 300px;
+}
+.g
+{
+    background-color: black;
+    height: 300px;
+    color: white;
+}
+.h
+{
+    background-color: grey;
+    height: 300px;
+}
