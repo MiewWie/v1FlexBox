@@ -10,40 +10,60 @@ body
 {
    background-color: blueviolet; 
    height: 300px;
+   border: 2px solid gold;
+   display: flex;
+   justify-content: center;
+   align-items: center;
 }
 .b
 {
- background-color: blue;
- height: 300px;
+    background-color: blue;
+    height: 300px;
+    border: 2px solid gold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .c
 {
     background-color: pink;
     height: 300px;
+    border: 2px solid gold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .d
 {
     background-color: palevioletred;
     height: 300px;
+    border: 2px solid gold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .e
 {
     background-color: crimson;
     height: 300px;
+    border: 2px solid gold;
 }
 .f
 {
     background-color: brown;
     height: 300px;
+    border: 2px solid gold;
 }
 .g
 {
     background-color: black;
     height: 300px;
     color: white;
+    border: 2px solid gold;
 }
 .h
 {
     background-color: grey;
     height: 300px;
+    border: 2px solid gold;
 }
